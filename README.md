@@ -13,18 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, I'm Akay 👋
+# Hello 👋! I'm Akay 😄
 
-## About Me
 I'm a software engineer with a passion for blockchain and DeFi technologies. My expertise spans both frontend and backend development, with a particular focus on building interactive and maintainable applications. I have a deep understanding of blockchain technology and smart contract development. Currently, I'm a software engineer at Techan, and I also work as a freelancer leveraging my skills to build and drive user adoption in the blockchain space.
+I'm always excited to provide innovative solutions using cutting-edge technology and share my knowledge with colleagues in the field.
 
-🔧 My technical toolkit includes:
+## 🔧 Technical Toolkit
 - Backend systems design and implementation
 - Blockchain technology and smart contract development
 - Frontend development for creating engaging user interfaces
 - Effective communication of complex technical concepts
 
-I'm always excited to provide innovative solutions using cutting-edge technology and share my knowledge with colleagues in the field.
 
 ## 🔭 Current Projects
 - Spotlx: A comprehensive laundry app offering pickup, tracking, and delivery services. It also provides users with a selection of local laundries to choose from for their laundry needs.
@@ -45,10 +44,3 @@ I'm always excited to provide innovative solutions using cutting-edge technology
 ## 📈 GitHub Stats
 [Akay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akay74&show_icons=true&theme=radical)
 
-## 📫 How to reach me
-- Email: akaudeh@gmail.com
-- LinkedIn: [Akay Udeh](https://www.linkedin.com/in/akay-udeh/)
-- Twitter: [@alpha_godhand](https://x.com/Alpha_godhand)
-- Website: [akay-dev](https://akay-dev.me)
-
-⭐️ From [Akay74](https://github.com/Akay74)
