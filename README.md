@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 # Hello 👋! I'm Akay 😄
 
-I'm a software engineer with a passion for blockchain and DeFi technologies. My expertise spans both frontend and backend development, with a particular focus on building interactive and maintainable applications. I have a deep understanding of blockchain technology and smart contract development. Currently, I'm a software engineer at Techan, and I also work as a freelancer leveraging my skills to build and drive user adoption in the blockchain space.
-I'm always excited to provide innovative solutions using cutting-edge technology and share my knowledge with colleagues in the field.
+I am a software engineer specializing in blockchain and DeFi with full-stack development expertise. I build interactive, scalable applications and have strong smart contract development skills. I am currently at Techan and freelancing to drive blockchain adoption. I am passionate about innovation and knowledge-sharing in the space.
 
 ## 🔧 Technical Toolkit
 - Backend systems design and implementation
@@ -27,7 +26,7 @@ I'm always excited to provide innovative solutions using cutting-edge technology
 
 ## 🔭 Current Projects
 - Spotlx: A comprehensive laundry app offering pickup, tracking, and delivery services. It also provides users with a selection of local laundries to choose from for their laundry needs.
-- Yuan DAO: A decentralized autonomous organization (DAO) focused on collective decision-making for token investments. Members participate in selecting tokens for investment, with benefits distributed to Yuan token holders.
+- RedXspot
 
 ## 🌱 I'm currently learning
 - Advanced DeFi protocols
