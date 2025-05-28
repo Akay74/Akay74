@@ -15,18 +15,13 @@ Here are some ideas to get you started:
 
 # Hello 👋! I'm Akay 😄
 
-I am a software engineer specializing in blockchain and DeFi with full-stack development expertise. I build interactive, scalable applications and have strong smart contract development skills. I am currently at Techan and freelancing to drive blockchain adoption. I am passionate about innovation and knowledge-sharing in the space.
+I am a software engineer specializing in blockchain and DeFi with full-stack development expertise. I build interactive, scalable applications and have strong smart contract development skills. I am currently at Techan and freelancing to drive blockchain adoption. I am passionate about innovation and knowledge sharing in this space.
 
 ## 🔧 Technical Toolkit
 - Backend systems design and implementation
 - Blockchain technology and smart contract development
 - Frontend development for creating engaging user interfaces
 - Effective communication of complex technical concepts
-
-
-## 🔭 Current Projects
-- Spotlx: A comprehensive laundry app offering pickup, tracking, and delivery services. It also provides users with a selection of local laundries to choose from for their laundry needs.
-- RedXspot
 
 ## 🌱 I'm currently learning
 - Advanced DeFi protocols
@@ -35,6 +30,7 @@ I am a software engineer specializing in blockchain and DeFi with full-stack dev
 
 ## 💼 Skills
 [Javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+[Typescript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 [Solidity](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 [Blockchain](https://img.shields.io/badge/Tech-DeFi-informational?style=flat&logo=ethereum&logoColor=white&color=2bbc8a)
 [React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
