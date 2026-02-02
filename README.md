@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello 👋! I'm Akay 😄
 
-I am a software engineer specializing in blockchain and DeFi with full-stack development expertise. I build interactive, scalable applications and have strong smart contract development skills. I am currently at Techan and freelancing to drive blockchain adoption. I am passionate about innovation and knowledge sharing in this space.
+I am a software engineer specializing in backend and blockchain with full-stack development expertise. I build interactive, scalable applications and have strong smart contract development skills. I am currently at Techan and freelancing to drive blockchain adoption. I am passionate about innovation and knowledge sharing in this space.
 
 ## 🔧 Technical Toolkit
 - Backend systems design and implementation
